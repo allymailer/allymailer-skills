@@ -1,0 +1,12 @@
+{
+  "name": "allymailer-skills",
+  "owner": {
+    "name": "AllyMailer"
+  },
+  "plugins": [
+    {
+      "name": "allymailer",
+      "source": "./"
+    }
+  ]
+}

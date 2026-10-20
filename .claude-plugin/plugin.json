@@ -1,0 +1,20 @@
+{
+  "name": "allymailer",
+  "description": "Send email with AllyMailer: the Web API and SDKs, templates, webhooks, deliverability best practices and migration from other providers",
+  "version": "1.0.0",
+  "author": {
+    "name": "AllyMailer",
+    "url": "https://allymailer.com.ua"
+  },
+  "homepage": "https://allymailer.com.ua",
+  "repository": "https://github.com/allymailer/allymailer-skills",
+  "license": "MIT",
+  "keywords": [
+    "email",
+    "allymailer",
+    "transactional-email",
+    "smtp",
+    "deliverability",
+    "webhooks"
+  ]
+}
